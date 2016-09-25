@@ -1,11 +1,11 @@
-package com.agenthun.RxJava;
+package com.agenthun.rxjava;
 
 import rx.Observable;
 import rx.functions.Action1;
 
 /**
  * Created by agenthun on 16/9/24.
- * RxJava Test easy
+ * rxjava Test easy
  * 输出结果
  * Hello A
  * Hello B

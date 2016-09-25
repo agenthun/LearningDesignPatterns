@@ -1,4 +1,4 @@
-package com.agenthun.Builder;
+package com.agenthun.builder;
 
 /**
  * Created by agenthun on 16/9/24.

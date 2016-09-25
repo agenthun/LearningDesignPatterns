@@ -1,4 +1,4 @@
-package com.agenthun.SubjectObserver;
+package com.agenthun.subjectobserver;
 
 /**
  * Created by agenthun on 16/9/23.

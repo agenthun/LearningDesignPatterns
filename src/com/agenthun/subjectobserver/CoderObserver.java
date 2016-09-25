@@ -1,4 +1,4 @@
-package com.agenthun.SubjectObserver;
+package com.agenthun.subjectobserver;
 
 import java.util.Observable;
 import java.util.Observer;
