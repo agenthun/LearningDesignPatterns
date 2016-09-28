@@ -15,11 +15,25 @@ public class WordDocument implements Cloneable {
         System.out.println("WordDocument构造函数");
     }
 
+    //浅拷贝,引用的是原先的对象地址
     protected WordDocument clone() {
         try {
             WordDocument document = (WordDocument) super.clone();
             document.mText = this.mText;
             document.mImages = this.mImages;
+            return document;
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+        }
+        return null;
+    }
+
+    //深拷贝,对ArrayList<String> mImages重新clone
+    protected WordDocument deepClone() {
+        try {
+            WordDocument document = (WordDocument) super.clone();
+            document.mText = this.mText;
+            document.mImages = (ArrayList<String>) this.mImages.clone();
             return document;
         } catch (Exception e) {
             System.out.println(e.getMessage());
