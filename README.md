@@ -5,3 +5,4 @@
 * 单例模式 singleton
 * 原型模式 prototype
 * 备忘录模式 memento
+* 代理模式 proxy
