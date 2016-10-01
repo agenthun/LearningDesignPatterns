@@ -1,4 +1,4 @@
-package com.agenthun.proxy;
+package com.agenthun.proxy.uml;
 
 /**
  * Created by agenthun on 2016/9/30.
