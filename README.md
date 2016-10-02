@@ -6,3 +6,4 @@
 * 原型模式 prototype
 * 备忘录模式 memento
 * 代理模式 proxy
+* 工厂模式 factory
