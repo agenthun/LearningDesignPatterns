@@ -7,3 +7,4 @@
 * 备忘录模式 memento
 * 代理模式 proxy
 * 工厂模式 factory
+* 策略模式 stragety
