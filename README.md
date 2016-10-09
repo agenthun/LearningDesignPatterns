@@ -8,3 +8,4 @@
 * 代理模式 proxy
 * 工厂模式 factory
 * 策略模式 stragety
+* 状态模式 state
