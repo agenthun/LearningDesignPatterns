@@ -9,3 +9,4 @@
 * 工厂模式 factory
 * 策略模式 stragety
 * 状态模式 state
+* 责任链模式 iterator
