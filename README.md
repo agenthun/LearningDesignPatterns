@@ -10,3 +10,4 @@
 * 策略模式 stragety
 * 状态模式 state
 * 责任链模式 iterator
+* 抽象工厂 abstractfactory
