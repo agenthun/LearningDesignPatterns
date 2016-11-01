@@ -1,5 +1,8 @@
 package com.agenthun.abstractfactory;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Created by agenthun on 2016/10/22.
  * 具体工厂2

@@ -11,3 +11,4 @@
 * 状态模式 state
 * 责任链模式 iterator
 * 抽象工厂 abstractfactory
+* 解释器模式 interpreter
